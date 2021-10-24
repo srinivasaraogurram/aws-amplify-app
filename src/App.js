@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React - Sri - Deploying first React App in AWS Cloud.
+          Updating React JS file on Oct 24 2021....
         </a>
       </header>
     </div>
